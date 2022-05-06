@@ -19,7 +19,7 @@
           "artifact": {
             "size": 212608,
             "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
             {
@@ -29,7 +29,7 @@
               "artifact": {
                 "size": 13577,
                 "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "http://wak.kro.kr/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
             {
@@ -39,7 +39,7 @@
               "artifact": {
                 "size": 2773337,
                 "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
             },
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
             },
@@ -61,7 +61,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "d1de2d2fc4d264d7693e8cdfcec84f90",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -72,7 +72,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -83,7 +83,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -94,7 +94,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "http://wak.kro.kr/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -104,7 +104,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "http://wak.kro.kr/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -114,7 +114,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "http://wak.kro.kr/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "http://wak.kro.kr/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -134,7 +134,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "http://wak.kro.kr/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -144,7 +144,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "http://wak.kro.kr/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -154,7 +154,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "http://wak.kro.kr/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -164,7 +164,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -174,7 +174,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "http://wak.kro.kr/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -184,7 +184,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -194,7 +194,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -204,7 +204,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -214,7 +214,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -224,7 +224,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "http://wak.kro.kr/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -234,7 +234,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "http://wak.kro.kr/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -244,7 +244,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "http://wak.kro.kr/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -254,7 +254,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "http://wak.kro.kr/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -264,7 +264,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "http://wak.kro.kr/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -274,7 +274,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "http://wak.kro.kr/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -284,7 +284,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "http://wak.kro.kr/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -294,7 +294,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "http://wak.kro.kr/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -304,7 +304,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "http://wak.kro.kr/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -314,7 +314,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "http://wak.kro.kr/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -324,7 +324,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "http://wak.kro.kr/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -334,7 +334,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "http://wak.kro.kr/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "http://github.com/haruww/Waktaverse-dependencies/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -345,7 +345,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 847218,
-            "url": "http://wak.kro.kr/servers/waktaverse-1.16.5/forgemods/required/chiselsandbits-0.2.10-RELEASE_2.jar",
+            "url": "http://github.com/haruww/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/chiselsandbits-0.2.10-RELEASE_2.jar",
             "MD5": "a0aaad6775d80108a1792cd6324bd67c"
           }
         },
@@ -355,7 +355,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12426252,
-            "url": "http://wak.kro.kr/servers/waktaverse-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220226.jar",
+            "url": "http://github.com/haruww/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220226.jar",
             "MD5": "2b7b3d81d98f1d36270d9abe68133121"
           }
         },
@@ -365,7 +365,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1289476,
-            "url": "http://wak.kro.kr/servers/waktaverse-1.16.5/forgemods/required/MutantBeasts-1.16.4-1.1.3.jar",
+            "url": "http://github.com/haruww/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/MutantBeasts-1.16.4-1.1.3.jar",
             "MD5": "b55a961c4a242c8388350328edd09b19"
           }
         },
@@ -375,7 +375,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 142536,
-            "url": "http://wak.kro.kr/servers/waktaverse-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
+            "url": "http://github.com/haruww/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
             "MD5": "514fe4c6c39bc1b7e474d813daab593e"
           }
         },
@@ -385,7 +385,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4860420,
-            "url": "http://wak.kro.kr/servers/waktaverse-1.16.5/forgemods/required/timeless_and_classics-gun_mod-0.1.4.1-1.16.5.jar",
+            "url": "http://github.com/haruww/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/timeless_and_classics-gun_mod-0.1.4.1-1.16.5.jar",
             "MD5": "2a071f73b10da17d64352c1115ebfe59"
           }
         },
@@ -395,7 +395,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9962697,
-            "url": "http://wak.kro.kr/servers/waktaverse-1.16.5/forgemods/required/Zombie+Extreme+1.16.5+1.8.2.jar",
+            "url": "http://github.com/haruww/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/Zombie+Extreme+1.16.5+1.8.2.jar",
             "MD5": "07673c63bf39755b4d2648f083af9b05"
           }
         }
