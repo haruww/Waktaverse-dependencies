@@ -103,7 +103,7 @@ key_Scene1 start/pause:key.keyboard.keypad.1
 key_Scene2 start/pause:key.keyboard.keypad.2
 key_Scene3 start/pause:key.keyboard.keypad.3
 key_Scene reset:key.keyboard.keypad.0
-key_Quest Log:key.keyboard.l
+key_Quest Log:key.keyboard.pause
 key_mod.chiselsandbits.chiselmode.single:key.keyboard.unknown
 key_mod.chiselsandbits.chiselmode.snap2:key.keyboard.unknown
 key_mod.chiselsandbits.chiselmode.snap4:key.keyboard.unknown
