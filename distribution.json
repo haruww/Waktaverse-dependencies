@@ -9,8 +9,8 @@
       "version": "1.0.0",
       "address": "wak.kro.kr:25565",
       "minecraftVersion": "1.16.5",
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.34",
