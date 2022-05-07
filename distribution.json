@@ -1,11 +1,5 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
   "servers": [
     {
       "id": "waktaverse-1.16.5",
@@ -13,13 +7,8 @@
       "description": "waktaverse Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "wak.kro.kr:25565",
       "minecraftVersion": "1.16.5",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
       "mainServer": false,
       "autoconnect": false,
       "modules": [
@@ -417,7 +406,7 @@
           "artifact": {
             "size": 5331,
             "url": "https://haruww.github.io/Waktaverse-dependencies/servers/waktaverse-1.16.5/files/options.txt",
-            "MD5": "d43b0dc706833ffb115674b1894aeeac",
+            "MD5E": "d43b0dc706833ffb115674b1894aeeac",
             "path": "options.txt"
           }
         }
