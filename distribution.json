@@ -340,12 +340,12 @@
           ]
         },
         {
-          "id": "mod.chiselsandbits.core:chiselsandbits:0.2.10-RELEASE_2@jar",
+          "id": "mod.chiselsandbits.core:chiselsandbits:0.3.4-RELEASE_2@jar",
           "name": "Chisels & bits",
           "type": "ForgeMod",
           "artifact": {
-            "size": 847218,
-            "url": "https://haruww.github.io/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/chiselsandbits-0.2.10-RELEASE_2.jar",
+            "size": 855387,
+            "url": "https://haruww.github.io/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/chiselsandbits-0.3.4-RELEASE.jar",
             "MD5": "a0aaad6775d80108a1792cd6324bd67c"
           }
         },
