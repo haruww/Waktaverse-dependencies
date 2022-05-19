@@ -350,12 +350,12 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220226@jar",
+          "id": "noppes.npcs:customnpcs:1.16.5.20220514@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12426252,
-            "url": "https://haruww.github.io/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220226.jar",
+            "size": 12457401,
+            "url": "https://haruww.github.io/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220514snapshot2.jar",
             "MD5": "2b7b3d81d98f1d36270d9abe68133121"
           }
         },
