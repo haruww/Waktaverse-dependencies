@@ -7,7 +7,7 @@
       "description": "waktaverse Running Minecraft 1.16.5 (Forge v36.2.34)",
       "icon": null,
       "version": "1.0.0",
-      "address": "wak.kro.kr:25565",
+      "address": "haru301.me:13579",
       "minecraftVersion": "1.16.5",
       "mainServer": true,
       "autoconnect": true,
