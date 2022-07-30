@@ -409,6 +409,16 @@
             "MD5E": "d43b0dc706833ffb115674b1894aeeac",
             "path": "options.txt"
           }
+        },
+        {
+          "id": "zombie_extreme:zombie_extreme:1.8.2@jar",
+          "name": "Cshulker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31269,
+            "url": "https://haruww.github.io/Waktaverse-dependencies/servers/waktaverse-1.16.5/forgemods/required/cshulker-1.0.jar",
+            "MD5": "07673c63bf39755b4d2648f083af9b05"
+          }
         }
       ]
     }
